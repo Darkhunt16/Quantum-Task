@@ -36,6 +36,8 @@ npm run dev  # or yarn dev / pnpm dev
 
 The server will start at `http://localhost:3000/` by default.
 
+Deployed Link: (https://quantum-task-0209.vercel.app)
+
 
 
 
